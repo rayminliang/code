@@ -1,0 +1,145 @@
+body {
+    font-size: 12px;
+    font-family: arial;
+}
+
+a {
+    color: #999;
+}
+
+redcolor {
+    color: #c40000;
+}
+
+nav.top {
+    background-color: #f2f2f2f2;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    border: 1px solid #e7e7e7;
+}
+
+#welcome,
+a {
+    color: #999;
+    margin: 0 10px 0px 10px;
+}
+
+a:hover {
+    color: #c40000;
+}
+
+div.searchDiv {
+    background-color: #c40000;
+    width: 400px;
+    margin: 20px auto;
+    padding: 0px;
+    height: 40px;
+    display: block;
+}
+
+div.searchDiv input {
+    width: 275px;
+    border: 1px solid transparent;
+    height: 36px;
+    margin: 2px;
+    outline: none;
+}
+
+.div.searchDiv button {
+    width: 110px;
+    border: 1px solid transparent;
+    background-color: #c40000;
+    color: white;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+div.searchBelow {
+    margin-top: 2px;
+    margin-left: -20px;
+}
+
+div.searchBelow span {
+    color: #999;
+}
+
+div.searchBelow {
+    padding: 0 20px 0 20px;
+}
+
+img.logo {
+    position: absolute;
+    left: 0px;
+    top: 30px;
+    z-index: -1;
+}
+
+footer {
+    margin: 500px 0px;
+    border-top-style: solid;
+    border-top-width: 2px;
+    border-top-color: #e7e7e7
+}
+
+div.footer_ensure {
+    border-bottom-style: solid;
+    border-bottom-width: 1px;
+    border-bottom-color: #e7e7e7;
+    margin-top: 24px;
+    margin-bottom: 0px;
+    text-align: center;
+}
+
+div.footer_desc {
+    padding-top: 10px;
+    margin: 0px 30px;
+}
+
+div.footer_desc div.descColumn {
+    width: 20%;
+    float: left;
+    padding-left: 15px;
+    text-align: center;
+}
+
+div.footer_desc div.descColumn span.descColumnTitle {
+    color: #646464;
+    font-weight: bold;
+    font-size: 16px;
+}
+
+div.footer_desc a {
+    display: block;
+    padding-top: 3px;
+}
+
+div.white_link {
+    margin-top: 90px;
+    border-top-style: solid;
+    border-top-width: 1px;
+    border-top-color: #40000;
+    text-align: center;
+    background-color: black
+}
+
+div.white_link span.slash {
+    color: white;
+}
+
+div.white_link a {
+    color: white;
+    padding: 0px 5px;
+}
+
+div.white_link {
+    padding: 10px 0px;
+    margin-left: 10px;
+}
+
+div.license {
+    background-color: black;
+    margin-left: 10px;
+    color: #A4A4A4;
+    padding-top: 20px;
+    text-align: center;
+}
